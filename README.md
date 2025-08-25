@@ -31,7 +31,7 @@ Troll Traders is a turn-based, Python-powered economy simulation game inspired b
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/erinczarnecki/troll-traders.git
+   git clone https://github.com/erinczarnecki/TrollTraders.git
    cd troll-traders
 
 2. Run the game:
