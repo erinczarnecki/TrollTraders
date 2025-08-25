@@ -61,14 +61,16 @@ Troll Traders is a turn-based, Python-powered economy simulation game inspired b
 - 🪙 Introduce **rare collectible items** with special rules or effects
 
 
-## Folder Structure
+## 📁 Folder Structure
 
+```text
 troll-traders/
 ├── troll_traders.py       # Main game loop
 ├── market.py              # Market logic
 ├── trader.py              # Player & AI traders
-├── items.yaml (optional)  # Configurable item data
+├── items.yaml             # Configurable item data (optional)
 ├── README.md              # This file
+
 
 ## 📜 License
 
