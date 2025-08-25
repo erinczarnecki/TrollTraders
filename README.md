@@ -70,7 +70,7 @@ troll-traders/
 ├── trader.py              # Player & AI traders
 ├── items.yaml             # Configurable item data (optional)
 ├── README.md              # This file
-
+```
 
 ## 📜 License
 
