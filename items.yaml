@@ -1,0 +1,60 @@
+# items.yaml
+Swamp Mushroom:
+  base_price: 5
+  quantity: 200
+
+Troll Gold:
+  base_price: 50
+  quantity: 20
+
+Bog Water Flask:
+  base_price: 3
+  quantity: 150
+
+Sticky Webbing:
+  base_price: 8
+  quantity: 80
+
+Rotten Turnip:
+  base_price: 2
+  quantity: 300
+
+Glowing Moss:
+  base_price: 7
+  quantity: 90
+
+Gnarly Root:
+  base_price: 6
+  quantity: 110
+
+Slime Gel:
+  base_price: 4
+  quantity: 180
+
+Singing Pebble:
+  base_price: 12
+  quantity: 40
+
+Warty Toad:
+  base_price: 9
+  quantity: 70
+
+Mud-Covered Mirror:
+  base_price: 18
+  quantity: 30
+
+Firefly Jar:
+  base_price: 11
+  quantity: 55
+
+Swamp Herb Bundle:
+  base_price: 7
+  quantity: 90
+
+Lumpy Candle:
+  base_price: 10
+  quantity: 60
+
+Troll Soap (Unlabeled):
+  base_price: 6
+  quantity: 95
