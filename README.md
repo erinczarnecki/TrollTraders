@@ -59,6 +59,10 @@ Troll Traders is a turn-based, Python-powered economy simulation game inspired b
 - 💬 Add **dialogue or flavor text** for trader personalities
 - 🎮 Create a **turn replay system** or game summary at the end
 - 🪙 Introduce **rare collectible items** with special rules or effects
+- ⚔️ Difficulty Selection at Start...Allow players to choose a difficulty level before gameplay begins (e.g., Easy, Normal, Hard, Chaos). This setting will control the number of active NPC traders, their aggressiveness, market volatility, and special event frequency — providing a tailored experience for casual or challenge-focused players.
+- 🎲 Dynamic NPC Activity...Vary how many NPC traders act each day — from random subsets to scaling activity based on the in-game timeline
+- 📈 Trader Behavior Scaling...As the game progresses, introduce more aggressive trader strategies or increase the number of active NPCs per day
+- ⚡ Market Event Days...Trigger special events like “Trader Rush” or “Black Bog Friday” where all NPCs trade, creating market chaos
 
 
 ## 📁 Folder Structure
