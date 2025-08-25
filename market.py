@@ -30,11 +30,18 @@ class Market:
         self.prices = {item: details['base_price'] for item, details in self.items.items()}
 
     def print_status(self):
-        print("Market Status:")
+        print("\n📦 Market Status:")
+        print("-" * 52)
+        print(f"{'Item':<25} {'Price:':^15} {'Quantity':^10}")
+        print("-" * 52)
+
         for item, details in self.items.items():
             price = self.prices[item]
             quantity = details['quantity']
-            print(f"{item}: Price: {price} gold, Quantity: {quantity}")
+            print(f"{item:<25} {price:^15} {quantity:>7}")
+
+        print("-" * 52)
+
 
     def update_price(self):
         """Update prices based on supply and demand."""
